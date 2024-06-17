@@ -1,1 +1,3 @@
 # I’m currently learning ...
+## - Python
+## - JavaScript
