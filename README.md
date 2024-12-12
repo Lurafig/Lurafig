@@ -8,9 +8,6 @@
 Print("test")
 ```
 
-- Python
-- JavaScript
-
 ***
 
 > "Winners never quit, and quitters never win."
