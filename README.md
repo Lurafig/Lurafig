@@ -1,6 +1,8 @@
 # I’m currently learning ...
 
 ![test](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![GitHub stars](https://img.shields.io/github/stars/Lurafig/)
+
 ```Python
 Print("test")
 ```
