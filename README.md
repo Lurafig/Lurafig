@@ -1,7 +1,7 @@
 # I’m currently learning ...
 
 ![test](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-![GitHub stars](https://img.shields.io/github/stars/Lurafig/JavaScript-HTML-CSS)
+![GitHub stars](https://img.shields.io/github/stars/Lurafig/Lurafig)
 
 ```Python
 Print("test")
