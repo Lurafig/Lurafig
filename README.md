@@ -1,7 +1,7 @@
 # I’m currently learning ...
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=%233776AB)
-![test](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23202020?style=flat-square&logo=JavaScript&logoColor=%23F7DF1E)
 ![GitHub stars](https://img.shields.io/github/stars/Lurafig/Lurafig)
 
 ```Python
