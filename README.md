@@ -1,6 +1,6 @@
 <h1 align = "center">I’m currently learning...🧑‍💻</h1>
 
-<h3 align = "center">Studying the tecnologies below</h3>
+<h3 align = "center">Studying the technologies below</h3>
 
 <p align = "center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python">
