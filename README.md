@@ -16,5 +16,6 @@
 
 <div style = "display:flex">
   <img src = "https://github-readme-stats.vercel.app/api?username=lurafig&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lurafig&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" >
 </div>
 
