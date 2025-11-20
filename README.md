@@ -16,6 +16,5 @@
 
 <div style = "display:flex">
   <img src = "https://github-readme-stats.vercel.app/api?username=lurafig&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" >
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=lurafig&theme=vue-dark&hide_border=true" >
 </div>
 
